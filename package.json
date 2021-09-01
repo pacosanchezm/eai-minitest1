@@ -1,18 +1,10 @@
 {
-  "name": "minitest1",
+  "name": "@pacosanchezm/eai-minitest1",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
-
   "homepage": ".",
-  
-
-
-
-
-
-
   "dependencies": {
     "react": "17.0.2",
     "react-dom": "17.0.2",
