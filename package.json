@@ -1,10 +1,14 @@
 {
   "name": "@pacosanchezm/eai-minitest1",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "keywords": [],
-  "main": "src/index.js",
+  "main": "src/App.js",
   "homepage": ".",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pacosanchezm/eai-minitest1"
+  },
   "dependencies": {
     "react": "17.0.2",
     "react-dom": "17.0.2",
