@@ -1,9 +1,9 @@
 {
   "name": "@pacosanchezm/eai-minitest1",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "keywords": [],
-  "main": "src/App.js",
+  "main": "src/index.js",
   "homepage": ".",
   "repository": {
     "type": "git",
